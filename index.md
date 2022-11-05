@@ -1,8 +1,25 @@
-# MORGAR BEAT GORGAR!
+---
+layout: post
+# optional alternate title to replace page.title at the top of the page
+alt_title: "MORGAR BEAT GORGAR"
 
+# optional sub-title below the page title
+sub_title: "The story of Morgar"
 
+# optional call to action links
+actions:
+  - label: "Learn More"
+    icon: github  # references name of svg icon, see full list below
+    url: "https://github.com/kylenahas/morgar"
 
-<img src="images/gorgar1.jpeg" alt="gorgar1" style="zoom: 25%;" />
+image: images/gorgar1.jpeg # URL to a hero image associated with the post (e.g., /assets/page-pic.jpg)
+
+# post specific author data if different from what is set in _config.yml 
+author:
+  name: Kyle Nahas
+
+comments: false  # disable comments on this post
+---
 
 As I opened the creaky rolling door, a shaft of light penetrated the dusty, cobweb filled garage for the first time in decades. Amongst the abandoned family heirlooms, a neglected creature beckoned to me. As I approached, I saw a stark reflection of myself, my soul, man, transposed across the machine. It had an allure I had not felt in years.
 
